@@ -282,7 +282,7 @@ body {
 
 ## OUTPUT
 <img width="1917" height="962" alt="Screenshot 2026-09-05 135830" src="https://github.com/user-attachments/assets/fe589ba7-fb2a-4a4f-92cb-35dd4731474e" />
-![Uploading Screenshot 2026-09-05 135841.png…]()
+<img width="1521" height="963" alt="Screenshot 2026-09-05 135841" src="https://github.com/user-attachments/assets/32d25f71-0e61-4946-ba26-c8a6b01b8c4e" />
 
 ## RESULT
 The program for creating Image Carousel using React is executed successfully.
